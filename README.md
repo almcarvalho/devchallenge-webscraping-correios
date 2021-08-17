@@ -26,14 +26,12 @@ Seu desafio ....
 
 # Tecnologias: 
 - Typescript
-  - [axios](https://www.npmjs.com/package/jsdom)
-  - [viacep](https://www.npmjs.com/package/cheerio)
 
-# Por onde começar:
-1 - Use 
-2 - Leia 
-3 - Comece a codar!  
-4 - Compartilhe seu resultado - e dúvidas - com a [comunidade](https://discord.gg/yvYXhGj) :)  
+  - [tutorial](https://medium.com/swlh/build-a-rest-api-with-express-js-and-typescript-dc2c8da89c52)
+  - [axios](https://www.youtube.com/watch?v=d7bKeG9hb-0)
+  - [viacep](https://viacep.com.br/)
+
+
 
 # Compartilhe!
 Inicie seu projeto utilizando esse template no seu github como um repositório público  
