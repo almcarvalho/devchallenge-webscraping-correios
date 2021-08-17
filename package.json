@@ -1,0 +1,31 @@
+{
+  "name": "devchallenge-webscraping-correios",
+  "version": "1.0.0",
+  "description": "my version of the chalenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/index.js",
+    "dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almcarvalho/devchallenge-webscraping-correios.git"
+  },
+  "author": "Lucas Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almcarvalho/devchallenge-webscraping-correios/issues"
+  },
+  "homepage": "https://github.com/almcarvalho/devchallenge-webscraping-correios#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ts-node-dev": "^1.1.8"
+  }
+}

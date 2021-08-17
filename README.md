@@ -17,28 +17,19 @@
 </p>
 
 # DevChallenge :)
-[DevChallenge](https://devchallenge.now.sh/) permite que você evolua suas skills como programador! Participe da nossa comunidade o/
+[DevChallenge](https://devchallenge.now.sh/) meu desafio concluído.
 
 # Desafio
-Seu desafio é criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para consultar um cep no site dos correios
+Seu desafio ....
 
 # Tecnologias: 
-A que você quiser :)
-Porém, se estiver indecisx, pode usar uma dessas sugestões:
-- Javascript
-  - [jsdom](https://www.npmjs.com/package/jsdom)
-  - [cheerio](https://www.npmjs.com/package/cheerio)
-  - [puppeteer](https://www.npmjs.com/package/puppeteer)
-  - [playwright](https://github.com/microsoft/playwright)
-- Python
-  - [request](https://requests.readthedocs.io/en/master/)
-  - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-  - [selenium](https://selenium-python.readthedocs.io/)
-  - [scrapy](https://docs.scrapy.org/en/latest/)
+- Typescript
+  - [axios](https://www.npmjs.com/package/jsdom)
+  - [viacep](https://www.npmjs.com/package/cheerio)
 
 # Por onde começar:
-1 - Use esse template ou baixe esse repositório com o código inicial  
-2 - Leia as instruções no [Readme.md](https://github.com/filiafobico/devchallenge-webscraping-correios/blob/master/README.md)  
+1 - Use 
+2 - Leia 
 3 - Comece a codar!  
 4 - Compartilhe seu resultado - e dúvidas - com a [comunidade](https://discord.gg/yvYXhGj) :)  
 
@@ -48,3 +39,6 @@ Faça um print, gif ou vídeo e compartilhe o resultado com a #devchallenge ou m
 (me marca também @filiafobico)
 
 Criado por [filiafobico](https://github.com/filiafobico/) :)
+
+Desafio realizado por Lucas Carvalho
+Concluido em Agosto de 2021.
